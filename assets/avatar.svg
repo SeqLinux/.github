@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>SeqLinux organization avatar</title>
+  <!-- Keep generous inset spacing so the mark survives circular crops. -->
+  <rect width="1024" height="1024" fill="#151e18"/>
+  <circle cx="512" cy="512" r="412" fill="#1e3023"/>
+  <circle cx="512" cy="512" r="410" fill="none" stroke="#75de91" stroke-opacity="0.35" stroke-width="3"/>
+  <image x="222" y="222" width="580" height="580" xlink:href="logo.svg"/>
+</svg>
